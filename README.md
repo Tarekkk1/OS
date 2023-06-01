@@ -1,4 +1,4 @@
-##Simulated OS - Project
+## Simulated OS - Project
 This repository contains the code for a simulated operating system project developed for the course CSEN 602 Operating Systems at the German University in Cairo, Faculty of Media Engineering and Technology, Spring 2023.
 
 The objective of this project is to build a simulation of an operating system to understand how it manages resources and processes. The main focus is on building a correct architecture that simulates a real operating system. The implementation and architecture will be evaluated for grading.
